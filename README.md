@@ -1,2 +1,11 @@
-# edu-bookmarks
-Collection of various educational materials related to Computer Science and Mathematics
+Collection of various educational materials (books, lectures, websites, etc.) related to Computer Science and Mathematics
+
+
+## Lectures
+[Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+
+[6.042 Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+[Mathematics](https://ocw.mit.edu/courses/mathematics/)
+
+[18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse)
