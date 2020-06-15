@@ -11,3 +11,7 @@ Collection of various educational materials (books, lectures, websites, etc.) re
 [Mathematics](https://ocw.mit.edu/courses/mathematics/)
 
 [18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse)
+
+## Interviewing 
+
+[Free Practice Interviews - Pramp](https://www.pramp.com/#/)
