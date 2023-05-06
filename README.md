@@ -15,3 +15,7 @@ Collection of various educational materials (books, lectures, websites, etc.) re
 ## Interviewing 
 
 [Free Practice Interviews - Pramp](https://www.pramp.com/#/)
+
+## Books
+
+[Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
